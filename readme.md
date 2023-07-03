@@ -1,22 +1,15 @@
 
-# Vue3 - Evaluation - 
+# React - Evaluation - 
  
-Objectif: partir d'une maquette statique et faire un projet vue3 qui sollicite une api externe
+Objectif: partir d'une maquette statique et faire un projet React qui sollicite une api externe
   
 # Le front
   
-```sh
-npm init vue@latest
-> cd  <nom-prenom-vue3>  > npm install  > npm run dev
-```
-  
-
 Installez toutes les dépendances nécessaires pour avoir une vue au plus près de la maquette html/css
   
 Découpez ensuite votre projet en composants
 
     
-
 > Sur l'index vous pouvez par exemple choisir d'afficher 4 villagers au
 > hasard ou vos 4 villagers préférés
  
@@ -33,7 +26,6 @@ Il y a deux endpoints importants: récupérer la liste des villagers et récupé
  
 **Récupérer tous les villagers**
 
-  
 
 [http://acnhapi.com/v1/villagers/](http://acnhapi.com/v1/villagers/)
 
