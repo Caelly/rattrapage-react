@@ -53,7 +53,7 @@ Il y a deux endpoints importants: récupérer la liste des villagers et récupé
 
 **Rendu**
 
-L'adresse du repo sous cette forme **nom-prenom-vue3**.git
+L'adresse du repo sous cette forme **nom-prenom**.git
 
 Sinon un zip (sans node_modules)
 
